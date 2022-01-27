@@ -17,8 +17,7 @@ class SpringJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-	// String expected = "true";
-	 //String actual = "true";
+
 		logger.info("Test Case executing");
 	 assertEquals(true,true);
 	}
